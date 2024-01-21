@@ -4,4 +4,5 @@ Welcome to my repository of Information Management and Data science Coursework a
 2. A report on BookPantry Data Base implementation using MySQL and SQL queries to extract insights
 3. UMD Campus Market Website Demo
 4. Data science Project Milestones 1,2 and 3 YouTube Video links Doc file,
-5. Data Science Project Reports with details of tasks performed on Fannie Mae Single family loan datasets, such as Data extraction, cleaning, preprocessing, exploratory data analysis, model building, classification, and prediction. Each assignment demonstrates my proficiency in leveraging data science techniques to derive meaningful insights and predictions.
+5. Data Science Project Reports with details of tasks performed on Fannie Mae Single family loan datasets, such as Data extraction, cleaning, preprocessing, exploratory data analysis, model building, classification, and prediction.
+Each assignment demonstrates my proficiency in User research, Database Management and applying data science techniques to derive meaningful insights and predictions.
