@@ -5,4 +5,7 @@ Welcome to my repository of Information Management and Data science Coursework a
 3. UMD Campus Market Website Demo
 4. Data science Project Milestones 1,2 and 3 YouTube Video links Doc file,
 5. Data Science Project Reports with details of tasks performed on Fannie Mae Single family loan datasets, such as Data extraction, cleaning, preprocessing, exploratory data analysis, model building, classification, and prediction.
-Each assignment demonstrates my proficiency in User research, Database Management and applying data science techniques to derive meaningful insights and predictions.
+6. An individual report with recommendations for Information Governance policy modifications for UMGC
+7. A folder with Code created along with team members for ingestion of Survey data from Stata and SPSS files and updating postgres database.
+
+Each assignment demonstrates my proficiency in User research, IG policy implementation , Database Management and applying Data Science techniques to train machine learning models.
