@@ -1,8 +1,6 @@
 # UMD_DS_Repo
 Welcome to my repository of Information Management and Data science Coursework at UMD. This Repository holds
-1. A final report on iPhone Student User study conducted to evaluate the determinants of iPhone repurchase decisions by student users,
-2. A report on BookPantry Data Base implementation using MySQL and SQL queries to extract insights
-3. UMD Campus Market Website Demo
-4. Data science Project Milestones 1,2 and 3 YouTube Video links Doc file,
-5. Data Science Project Reports with details of tasks performed on Fannie Mae Single family loan datasets, such as Data extraction, cleaning, preprocessing, exploratory data analysis, model building, classification, and prediction.
-Each assignment demonstrates my proficiency in User research, Database Management and applying data science techniques to derive meaningful insights and predictions.
+1. Folder with the Capstone Project wherein we created a Data coordination Model for the Information Competition Simulator that ARLIS UMD team is working on, and implemented in postgres.
+2. Code files with R Scripts, for the  Statistical Analysis and Machine Learning Projects conducted as part of Data Science Projects using Fannie Mae Dataset and UCI Adult Dataset and SQL queries used to analyze the BookPantry Dataset
+3. Links to Youtube videos of the FannieMae Dataset analysis
+4. Reports folder with reports on the FannieMae analysis, BookPantry Database, iPhone Student User study, recommendations for Information Governance policy modifications for UMGC
